@@ -1,3 +1,6 @@
+# Jenkins Build Status
+![Jenkins Build Status](http://ogtsu.ddns.net/image.png)
+
 # Project Transcend
 Project Transcend is a Java Spring Boot application that interacts with a ComputerCraft turtle inside a Minecraft world which is effectively a LUA HTTP client, to save and serve embedded analytics on collected items and their metadata.
 
