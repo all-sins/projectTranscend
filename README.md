@@ -11,7 +11,11 @@ Project Transcend is a Java Spring Boot application that interacts with a Comput
 ```
 
 2. Update credential and token values in setEnvVars.sh.
-WEBHOOK-URL, DATASOURCE.PASSWORD and DATASOURCE.USERNAME.
+* WEBHOOK-URL
+* DATASOURCE.PASSWORD
+* DATASOURCE.USERNAME
 
-2. Run.
+3. Install, configure endpoint and run startup.lua on a ComputerCraft turtle with HTTP requests enabled.
+
+4. Run.
 ./run.sh
