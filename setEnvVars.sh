@@ -1,0 +1,4 @@
+#!/bin/bash
+export QUARRY_WEBHOOK=""
+export SPRING_DATASOURCE_USERNAME=""
+export SPRING_DATASOURCE_PASSWORD=""
